@@ -3,8 +3,9 @@ use color_eyre::eyre::Result;
 fn main() -> Result<()> {
 
     color_eyre::install()?;
-    println!("Hello, world!");
 
+
+    println!("Hello, world!");
     todo!();
     // unimplemented!()
     // panic!()
