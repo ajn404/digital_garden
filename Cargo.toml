@@ -1,5 +1,5 @@
 [package]
-name = "rust_ts_webassembly_snake"
+name = "difital_garden"
 version = "0.1.0"
 edition = "2021"
 
@@ -11,3 +11,4 @@ path = "src/main.rs"
 
 [dependencies]
 color-eyre = "0.6.2"
+structopt = "0.3.26"
